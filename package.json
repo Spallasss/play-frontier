@@ -1,0 +1,25 @@
+{
+  "name": "frontier-node-template",
+  "version": "1.0.0",
+  "description": "A [FRAME](https://substrate.dev/docs/en/next/conceptual/runtime/frame)-based [Substrate](https://substrate.dev/en/) node with the Ethereum RPC support, ready for hacking :rocket:",
+  "main": "index.js",
+  "directories": {
+    "example": "examples"
+  },
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/substrate-developer-hub/frontier-node-template.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/substrate-developer-hub/frontier-node-template/issues"
+  },
+  "homepage": "https://github.com/substrate-developer-hub/frontier-node-template#readme",
+  "dependencies": {
+    "web3": "^1.6.1"
+  }
+}
